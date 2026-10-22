@@ -1,0 +1,2 @@
+Python in Google Colab. Libraries: pandas, networkx, matplotlib, pytrends (for Google Trends), requests.
+

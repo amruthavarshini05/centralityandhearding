@@ -1,0 +1,75 @@
+1. Overview
+
+This section of our project presents evidence that shows that Stanley Cup tumblers did not randomly show up on the influence map of the world but were driven by social influence and herd behaviour. Using digital trace data from Google Trends, and social media like Instagram, Reddit, Twitter, and Youtube, we demonstrate that 
+(1) attention spikes align with social media discussion, 
+(2) individuals cite peer behaviour and trends as motivation for buying, 
+and (3)	over time, this also leads to negative PR.
+
+THIS RESEARCH DOES NOT LOOK AT NEWER COLLABS WITH FAMOUS, CENTRAL, CELEBRITIES. It is meant to understand how this trend came up with social influence, FOMO, and multiple smaller influencers.
+
+2. Timeseries Data (Google Trends)
+
+Google Trends shows a significant increase in search interest for “Stanley Cup tumbler,” rising from a baseline near zero to a peak value of 100. This spike began around the end of the year 2022 and reached maximum attention around December 2023. It initially experiences a spike, then slowly declines in demand, and finally reaches its all-time peak demand.
+
+In contrast, competing products such as “Hydro Flask” remained comparatively flat, indicating that the surge is unique to Stanley and not the drinkware category in general. While the trend itself is not flat, it remains rather constant in demand.
+
+The “Yeti tumbler”, on the other hand, has a seasonal demand that has a lower peak since the uprise of the Stanley trend. Through research, the Yeti Tumbler was identified as Stanley's biggest competitor from a consumer perspective.
+
+
+3. Social Display & Visibility (Instagram/YT shorts Evidence)
+
+Analysis of Instagram posts and evidence from YT shorts shows widespread display behaviour. Across the collected sample, users frequently caption their content with phrases such as “TikTok made me buy it,” “everyone has this cup,” and “joining the trend.” These captions indicate direct social influence.
+
+For example:
+- “Everybody is supposed to have a Stanley.”
+- “TikTok made me buy it.”
+- “Unboxing my new Stanley cup”
+
+Multiple posts show individuals displaying collections of 5–20 cups, demonstrating the performative aspect of the trend. This behaviour aligns with display herding, where users adopt the product to align with current famous trends. This also gave rise to product generation, such as accessories and bags for Stanley cups. The audience who can afford such an expensive tumbler would also most likely want to beautify it.
+
+4. Community Perception (Reddit + Twitter)
+
+Reddit and Twitter data further support the presence of herding dynamics. 
+
+Examples include:
+- “Difficult to find them in stock"
+- “Stanley cups are everywhere.”
+- “This Stanley Cup craze is getting out of control.”
+
+These comments show normative pressure and FOMO (fear of missing out), both strong indicators of social influence.
+
+However, Reddit is considered to have more "real-time" opinions, where users put in their blatant feedback (good or bad). With the progress of this trend, Reddit has an increasing number of posts in its subreddits on how the Stanley trend is overrated and wasteful. But an important thing to note is that most of these have much lower view counts, likes, upvotes, etc, compared to the influencers who post in favour of this trend. 
+
+
+5. Herding Behaviour Coding Results
+
+Results of the divided sample experiment:
+- TikTok influence: 60%
+- Peer pressure: 50%
+- “Everyone has it” references: 100%
+- Display herding: 80%
+- Collection flex: 30%
+- FOMO: 90%
+- Influencer push: 70%
+
+The two most common categories were FOMO and "Everyone has it", indicating that the trend is primarily sustained by visible, society-driven adoption rather than celebrity endorsements or brand advertising.
+
+Note: 
+These results are just based on the small sample that has been collected. Furthermore, the experimental behaviours are recorded on an analytical basis. Some of the samples explicitly mention the behaviour, while others imply it in the description, mode of content, comments, etc.
+
+
+6. Centrality & Network Dynamics
+
+The early spread of the Stanley trend was driven by a small number of high-centrality nodes in lifestyle and aesthetic communities (e.g., “hydration aesthetic,” “clean girl,” “Target finds”, famous channels on YouTube, verified but small-scale Twitter influencers). These accounts function as micro-influencers with strong local network effects. Their posts received disproportionate engagement, enabling rapid diffusion across peer networks. The trend’s continuation shows decentralised adoption: everyday users re-posting collections or unboxings amplify the signal, sustaining the herd effect.
+
+With the making of additional finds to the existing trend, it was blown up into a massive-scale trend, which made the whole consumer base turn the commodity into a NEED instead of a WANT. A similar phenomenon can be seen with the Labubu dolls, but Stanley had a higher impact because it was a product for a daily requirement, not a toy that can be easily avoided. 
+
+The Stanley trend also led to a lot of fakes being produced in the market, which, in turn, only hiked the value of the original. Many influencers either used it as an opportunity to compare the fake and the real one, or they wanted to be identified as authentic and therefore endorsed the original.
+
+
+7. Summary of Findings
+
+Across all platforms, we find strong evidence of herd behaviour in the adoption of the Stanley Cup tumbler. Search interest, social media visibility, and community discussions all show that individuals are influenced by their peers. Display herding is the most common behaviour, followed by informational herding (search spikes) and normative pressure (“everyone has it”).
+
+The Stanley trend is therefore best explained by decentralised, peer-driven social influence rather than top–down marketing or celebrity promotion. This aligns with known patterns of viral consumer behaviour observed in social computing research.
+

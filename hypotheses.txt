@@ -1,0 +1,11 @@
+Title: Social Influence & Herding Analysis Using Stanley Cup Case Study
+
+H1: Exposure to influencer or peer posts about Stanley Cups predicts rises in attention (searches, hashtag views) and sales proxies.
+H2: A measurable share of consumer posts indicate display herding ("everyone has one" / "had to buy it").
+H3: A small set of central micro-influencers seeded early diffusion (high centrality nodes).
+
+Operationalization:
+- Attention proxies: Google Trends weekly index for "Stanley Cup Tumbler", #StanleyCup hashtag view counts (TikTok), Instagram post counts, Wikipedia pageviews (if exists).
+- Outcome proxies: news reports of sellouts, retailer stockouts (Target restock articles), NPD/retail mentions (qualitative).
+- Social sample: 100–200 TikTok/Instagram posts for qualitative coding.
+- Network: sample 200–1000 Twitter/X or TikTok repost/duet/reshare edges (depending on access) to compute centrality.
